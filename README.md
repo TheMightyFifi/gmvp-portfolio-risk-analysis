@@ -553,27 +553,6 @@ The script generates:
 
 ---
 
-## Repository Structure
-
-```text
-gmvp-portfolio-risk-analysis/
-│
-├── gmvp_portfolio_analysis.R
-├── README.md
-├── .gitignore
-│
-└── report/
-    └── gmvp_portfolio_analysis_report.pdf
-```
-
-The following source file is required to run the analysis but is not included in the repository:
-
-```text
-all_stocks_5yr.csv
-```
-
----
-
 ## Limitations
 
 The results should be interpreted in the context of several limitations:
